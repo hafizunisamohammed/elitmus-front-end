@@ -1,0 +1,59 @@
+*{
+    margin:10px;
+    padding:5px;
+    box-sizing: border-box;
+
+}
+.video-Puzzle{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+.upper-instruction{
+    border: 1px solid black;
+    margin: 40px;
+
+
+background: rgba(255, 174, 174, 0.39);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.play-video-btn button{
+    box-sizing: border-box;
+    font-size: xx-large;
+    color: white;
+    margin: 40px;
+    width: 200px;
+    height: 100px;
+background: #FB4545;
+border: 3px solid #000000;
+border-radius: 15px;
+}
+
+.description{
+
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+background: rgba(255, 174, 174, 0.28);
+color: #000000;
+align-items: center;
+justify-content: center;
+margin: 30px;
+
+}
+
+.answers{
+    display: flex;
+    justify-content: space-evenly;
+}
+.video-puzzle-btn{
+    width: 300px;
+    margin:20px;
+    border-radius: 50px;
+    background: rgba(255, 174, 174, 0.15);
+    color: black;
+}

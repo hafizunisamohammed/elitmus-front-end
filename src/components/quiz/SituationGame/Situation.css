@@ -1,0 +1,29 @@
+.heading{
+    display: flex;
+    align-items: center;
+}
+.heading img{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.heading h1{ font-size: 50px;
+    padding-bottom: 10px;
+    font-weight: 900;}
+
+.situation-question{
+    margin: 10px;
+    line-height: 2;
+    font-size: xx-large;
+
+}
+
+.situation-answers{
+    margin: 30px;
+    margin-left: 100px;
+}
+
+.video-puzzle-btn{
+    font-size: larger;
+}

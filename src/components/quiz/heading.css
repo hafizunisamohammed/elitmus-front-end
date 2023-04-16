@@ -1,0 +1,13 @@
+.heading{
+    display: flex;
+    align-items: center;
+}
+.heading img{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.heading h1{ font-size: 50px;
+    padding-bottom: 10px;
+    font-weight: 900;}
